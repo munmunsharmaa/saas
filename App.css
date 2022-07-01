@@ -1,0 +1,26 @@
+body {
+	background: #000000;
+	color: #df6060;
+  grid-column-start: 1;
+}
+
+.ro {
+	margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 150px;
+}
+.Section-center{
+  padding: 60px;
+  padding: auto;
+  
+}
+
+.img{
+  height: 300px;
+}
+.cent{
+  text-align: center;
+  align-self: center;
+  margin: 0 auto;
+}
